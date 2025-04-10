@@ -1,0 +1,6 @@
+admin:password
+admin12:ass
+a:a
+aâ:adds
+admins:s
+1:1
